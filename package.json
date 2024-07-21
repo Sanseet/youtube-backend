@@ -1,7 +1,7 @@
 {
   "name": "youtube-backend",
   "version": "1.0.0",
-  "description": "My First Project With Backend.",
+  "description": "Youtube Backend Project",
   "type": "module",
   "main": "index.js",
   "scripts": {
